@@ -96,7 +96,7 @@ A análise orçamentária considera exclusivamente os pagamentos de correção d
 * **Pandas**
 * **Matplotlib**
 * **Excel**
-* **Jupyter Notebook**
+* **Google Sheets**
 
 As principais etapas de tratamento e análise dos dados foram realizadas utilizando Python, com foco em manipulação de dados, cruzamento de bases, cálculos financeiros, análise orçamentária e visualização de informações.
 
@@ -122,8 +122,9 @@ As principais etapas de tratamento e análise dos dados foram realizadas utiliza
 │   └── Base final após o tratamento, padronização e organização dos dados.
 │
 └── 📁 Arquivos em Texto
-    ├── 📄 [arquivos textuais da solução]
-    └── 📄 [comunicações e análises produzidas no case]
+    ├── 📄 Tarefa 1: Conferência da base de avaliadores
+    ├── 📄 Tarefa 3: Comunicação ao colaborador
+    └── 📄 Tarefa 4: Análise orçamentária
 ```
 
 ---
